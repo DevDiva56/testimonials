@@ -18,3 +18,16 @@ body{
     margin: 100px auto;
 }
 
+.card--purple{
+     grid-column: span 2;
+
+}
+
+.card--wheat{
+    grid-row: span 2;
+}
+
+.card--dark{
+    grid-column: span 2;
+}
+
