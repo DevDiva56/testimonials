@@ -18,16 +18,61 @@ body{
     margin: 100px auto;
 }
 
+.card{
+    padding: 25px;
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);;
+}
+
 .card--purple{
      grid-column: span 2;
+     background-color: hsl(263, 55%, 52%);
 
 }
 
+.card--grey{
+    background-color: hsl(219, 29%, 14%);
+}
 .card--wheat{
     grid-row: span 2;
+    background-color: hsl(0, 0%, 100%);
+    color:hsl(0, 0%, 7%); ;
 }
 
 .card--dark{
     grid-column: span 2;
+    background-color: hsl(0, 0%, 7%);
 }
 
+.card--white{
+    background-color: hsl(0, 0%, 100%);;
+    color: hsl(0, 0%, 7%);;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile img{
+    width: 35px;
+    border-radius: 50%;
+}
+
+.title{
+    margin: 15px 0;
+    font-size: 18px;
+
+}
+
+.quote{
+    opacity: 1;
+    line-height: 1.5;
+}
+
+.quotation{
+    display: flex;
+    align-items: center;
+}
