@@ -74,5 +74,5 @@ Write cleaner and more scalable CSS
 
 👩🏽Author
 Name: Emeri Lopua
-Frontend Mentor: 
+Frontend Mentor: https://www.frontendmentor.io/profile/DevDiva56
 
