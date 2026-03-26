@@ -19,7 +19,7 @@ body{
 }
 
 .card{
-    padding: 25px;
+    padding: 30px;
     border-radius: 10px;
     color: hsl(0, 0%, 100%);
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);;
@@ -62,10 +62,19 @@ body{
     border-radius: 50%;
 }
 
+.profile h4{
+     font-size: 14px;
+     font-weight: 600;
+}
+
+.profile p{
+    font-size: 12px;
+    opacity: 0.5;
+}
 .title{
     margin: 15px 0;
     font-size: 18px;
-
+     font-weight: 600;
 }
 
 .quote{
